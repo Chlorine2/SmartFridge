@@ -1,0 +1,2 @@
+# SmartFridge
+Lviv Polytechnic work

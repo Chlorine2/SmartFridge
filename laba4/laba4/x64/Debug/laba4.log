@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(8,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(11,6): warning C4101: 'num': unreferenced local variable
+  laba4.vcxproj -> C:\Users\odwin\source\repos\laba4\x64\Debug\laba4.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(7,21): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(7,15): warning C4024: 'fopen_s': different types for formal and actual parameter 1
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(11,11): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'errno_t'
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(11,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+C:\Users\odwin\source\repos\laba4\laba4\Source.c(7): error C4700: uninitialized local variable 'stream' used
